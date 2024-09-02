@@ -1,0 +1,10 @@
+# Row 1
+11: Where it all began... (Get Milestone 1)
+12: Selfboost (Get Milestone 3)
+13: Not the prestige points again! (Get Milestone 5)
+14: Really good boost (Buy 2 Prestige Upgrades)
+15: Selfboost^2 (Get Milestone 6)
+16: Upgrades? (Get Milestone 10)
+17: That's spending prestige points! (Buy 4 Prestige Upgrades)
+18: Softcapped already? (Get Milestone 14)
+19: 100x more than usual 100% (Get Milestone 20)
