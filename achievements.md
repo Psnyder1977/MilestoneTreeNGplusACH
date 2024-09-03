@@ -8,3 +8,13 @@
 17: That's spending prestige points! (Buy 4 Prestige Upgrades)
 18: Softcapped already? (Get Milestone 14)
 19: Would you rather be automated? (Get Milestone 20)
+# Row 2
+21: Prestige points again? Wait, it's super ones! (Get Milestone 25)
+22: Upgrades^2 (Buy 2 Super Prestige Upgrades)
+23: Upgrades^3 (Buy 8 Prestige Upgrades)
+24: We should keep some stuff. (Get Milestone 26)
+25: Upgraded Super (Get Milestone 35)
+26: Getting rich! (Get 1.e+1000 points)
+27: Not the another milestones... (Get Meta-Milestone)
+28: Upgraded Super^2 (Buy 8 Super Prestige Upgrades)
+29: Getting richer? (Get 1.e+10,000 points)
