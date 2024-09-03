@@ -18,3 +18,13 @@
 27: Not the another milestones... (Get Meta-Milestone)
 28: Upgraded Super^2 (Buy 8 Super Prestige Upgrades)
 29: Getting richer? (Get 1.e+10,000 points)
+# Row 3
+31: Get boosted for your prestige! (Get a Prestige Boost)
+32: I can handle it without you :) (Get 1.e+12,500 PP without PP upgrades)
+33: Would you rather be automated too? (Get Milestone 57)
+34: Yet Another Prestige Layer (Get Milestone 60)
+35: Not funny. (Get Milestone 69)
+36: More Prestige Points than Normal Points?! (Get 10^1.e+6 points)
+37: Would you rather be automated three? (Get Milestone 75)
+38: New Prestige Layer and would you rather be automated four? (Get Milestone 80)
+39: Challenged. (Complete Atomic Challenge 11, 1 time)
