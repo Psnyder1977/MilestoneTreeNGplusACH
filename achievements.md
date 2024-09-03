@@ -7,4 +7,4 @@
 16: Upgrades? (Get Milestone 10)
 17: That's spending prestige points! (Buy 4 Prestige Upgrades)
 18: Softcapped already? (Get Milestone 14)
-19: 100x more than usual 100% (Get Milestone 20)
+19: Would you rather be automated? (Get Milestone 20)
